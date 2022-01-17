@@ -1,2 +1,2 @@
 # Github Finder
- React.js
+Full Stack Developer
